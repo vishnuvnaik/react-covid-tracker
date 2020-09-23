@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-covid-tracker/static/js/2.9d122f9f.chunk.js"
   },
   {
-    "revision": "0080de3adfa329dbff89d746fe79f0e4",
+    "revision": "bc52049fe31afc54028ecb59fa0891d1",
     "url": "/react-covid-tracker/index.html"
   }
 ];
